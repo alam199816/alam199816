@@ -1,9 +1,10 @@
 ### Hi Developers 👋
 
-[![YouTube Badge]([https://img.shields.io/badge/YouTube-@techno.control-red)]
-[![Linkedin Badge](https://www.linkedin.com/in/khurshid-alam-b58ab42a9/)]
-[![Website Badge](https://img.shields.io/badge/WebSite-Armaan-green)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Armaan-yellow)](https://stackoverflow.com/users/18286829/armaan-ahmad)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-@techno.control-red)](https://www.youtube.com/c/YourYouTubeChannel)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Khurshid%20Alam-blue)](https://www.linkedin.com/in/khurshid-alam-b58ab42a9/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Armaan-green)](https://yourwebsite.com)
+[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Armaan-yellow)](https://stackoverflow.com/users/18286829/armaan-ahmad)
+
 
 
 👋 Hey there! I'm Khursid Alam, a passionate JavaScript and MERN stack developer, dedicated to building cutting-edge web applications. With a strong foundation in JavaScript and expertise in MongoDB, Express.js, React.js, and Node.js, I specialize in creating seamless and scalable solutions that drive innovation. Explore my repositories to see my latest projects and contributions. Let's collaborate and create something amazing together! 🚀
