@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge]([https://img.shields.io/badge/YouTube-Armaan-red)](https://www.youtube.com/channel/UCITUGN6nDr5HLHQjMoCBbug](https://www.youtube.com/@techno.control))
+[![YouTube Badge]([https://img.shields.io/badge/YouTube-@techno.control-red)]
 [![Linkedin Badge](https://www.linkedin.com/in/khurshid-alam-b58ab42a9/)]
 [![Website Badge](https://img.shields.io/badge/WebSite-Armaan-green)]()
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Armaan-yellow)](https://stackoverflow.com/users/18286829/armaan-ahmad)
