@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Armaan-red)](https://www.youtube.com/channel/UCITUGN6nDr5HLHQjMoCBbug)
-[![Linkedin Badge](https://img.shields.io/badge/-Armaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/armaan-ahmad-7b24a222b/)
+[![YouTube Badge]([https://img.shields.io/badge/YouTube-Armaan-red)](https://www.youtube.com/channel/UCITUGN6nDr5HLHQjMoCBbug](https://www.youtube.com/@techno.control))
+[![Linkedin Badge](https://www.linkedin.com/in/khurshid-alam-b58ab42a9/)]
 [![Website Badge](https://img.shields.io/badge/WebSite-Armaan-green)]()
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Armaan-yellow)](https://stackoverflow.com/users/18286829/armaan-ahmad)
 
