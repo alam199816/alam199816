@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-@techno.control-red)](https://www.youtube.com/c/YourYouTubeChannel)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Khurshid%20Alam-blue)](https://www.linkedin.com/in/khurshid-alam-b58ab42a9/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Khursheed-green)](https://yourwebsite.com)
+[![Website Badge](https://img.shields.io/badge/WebSite-Khursheed-green)](https://updateschooledu.blogspot.com/)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Khursheed-yellow)](https://stackoverflow.com/users/27236484/khurshid-alam)
 
 
